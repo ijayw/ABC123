@@ -1,10 +1,12 @@
 package pack1;
 
-public class Sample6 {
-  test
-  test
-  test
-  test
+public class Sample7 {
+  Sample7
+  Sample7
+  Sample7
+  Sample7
+  Sample7
+  Sample7
   
 
 }
